@@ -1,0 +1,4 @@
+name: SubCommandLib
+version: '${project.version}'
+main: io.github.scaredsmods.subcommandlib.Main
+api-version: '1.20'
