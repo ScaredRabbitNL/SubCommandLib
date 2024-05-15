@@ -1,4 +1,4 @@
-### Sub Command Lib
+# Sub Command Lib
 
 This is a library for developers to easier make sub commands for their plugins
 
