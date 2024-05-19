@@ -4,7 +4,7 @@ This is a library for developers to easier make sub commands for their plugins
 
 ## Tutorial
 
-See builtin wiki
+See the [wiki](https://github.com/ScaredRabbitYT/SubCommandLib/wiki)
 
 ## Credits
 
